@@ -1,8 +1,11 @@
-#include <stdio.h>
-#include <main.h>
-int main(void)
+#include "holberton.h"
+
+void 0-putchar.c(void)
 {
-	printf("_putchar\n");
+char p = "_putchar";
+	_putchar(p);
+
+	_putchar(\n);
 
 	return (0);
 }
